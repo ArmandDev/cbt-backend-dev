@@ -1,1 +1,0 @@
-This is a backend python repository created by Terraform in environment dev.
